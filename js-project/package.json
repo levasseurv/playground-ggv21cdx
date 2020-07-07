@@ -1,0 +1,10 @@
+{
+  "name": "js-project",
+  "version": "0.0.1",
+  "dependencies": {
+    "mocha": "*",
+    "should": ">= 0.0.1",
+    "express": "*",
+    "path": "*"
+  }
+}

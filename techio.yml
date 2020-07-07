@@ -1,4 +1,16 @@
-title: Custom Template
+title: 420-3P2-HU Interfaces Web A19 (exercices)
 plan:
-- title: Welcome
+- title: Introduction
   statement: markdowns/welcome.md
+- title: Variables
+  statement: markdowns/variables.md
+- title: Fonctions et opérateurs
+  statement: markdowns/operateurs.md
+- title: Tableaux
+  statement: markdowns/tableaux.md
+- title: Objets
+  statement: markdowns/objets.md
+projects:
+  js:
+    root: /js-project
+    runner: techio/node-npm-runner
