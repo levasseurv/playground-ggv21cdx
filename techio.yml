@@ -1,4 +1,4 @@
-title: 420-3P2-HU Interfaces Web A19 (exercices)
+title: 420-3P2-HU Interfaces Web A20 (exercices)
 plan:
 - title: Introduction
   statement: markdowns/welcome.md
@@ -13,4 +13,5 @@ plan:
 projects:
   js:
     root: /js-project
-    runner: techio/node-npm-runner
+    runner:
+      name: techio/node-npm-runner
