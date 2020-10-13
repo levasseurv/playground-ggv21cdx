@@ -24,7 +24,7 @@ const chat = {
 
 ## Créer une fonction qui incrémente la propriété "vie" du chat
 - Créer une fonction prochaineVie qui prend un chat en paramètre
-- La fonction incrémente le nombre de vies (propriété `vie`) du chat et modifie son âge (propriété `age`) à 0.
+- La fonction incrémente le nombre de vies (propriété `vie`) du chat passé en paramètre et modifie son âge (propriété `age`) à 0.
 - La fonction retourne le chat modifié
 
 @[Créer l'objet chat décrit ci-dessus]({"stubs": ["stubs/objet2.js"], "command": "node_modules/mocha/bin/mocha test/test_objet2.js --reporter list"})
